@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**ShukuratBankole/ShukuratBankole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShukuratBankole/My_First_Data-Analysis_Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
